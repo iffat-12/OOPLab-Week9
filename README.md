@@ -10,5 +10,5 @@ A C++ program demonstrating OOP concepts using a hierarchy of numeric classes.
 - Friend Functions (for stream operators `>>` and `<<`)
 
 **Files:**
-- `mathlib.h` — Base and derived class definitions
-- `main.cpp` — `Custom_Num` class and driver code
+- `mathlib.h` — Base and derived class definitions.
+- `main.cpp` — `Custom_Num` class and driver code.
